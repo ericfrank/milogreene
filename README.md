@@ -1,1 +1,3 @@
-# milogreene
+# MiloGreene.com
+
+Static site.
